@@ -1,0 +1,39 @@
+.m{
+    width: 400px;
+    height:auto;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    background-color: aliceblue;
+}
+.p{
+border-radius:60%;
+border:2px solid black;
+}
+.l{
+float:right;
+position:top;
+}
+.n{
+background-color:blue;
+width:auto;
+height:20px;
+color:white;
+}
+.f{
+background-color:blue;
+width:auto;
+height:20px;
+color:white;
+}
+.branch{
+    color: white;
+    background-color:blue;
+    border-radius:180px;
+    border:2px solid black;
+    width:100;
+    top:230;
+    padding-left: 0%;
+    position: absolute;
+    left:310px;
+    }
